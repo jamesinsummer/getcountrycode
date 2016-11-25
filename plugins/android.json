@@ -1,0 +1,78 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-sim": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ir.cocode"
+        }
+    },
+    "dependent_plugins": {}
+}
